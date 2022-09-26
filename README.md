@@ -14,7 +14,7 @@ Acevedo, A, Brodsky, L., Nature, R. A.-, & 2014, undefined. (n.d.). Mutational a
 landscapes of an RNA virus revealed through population sequencing. Nature.Com. 
 Retrieved from https://www.nature.com/articles/nature12861
 
-Requerimientos
+Requerimientos\n
 -------- Scripts y Archivos ------------------------------------------------------------------------
 intrones_drosophila.txt
 >> ConsensusGeneration.py <<
