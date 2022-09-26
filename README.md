@@ -7,10 +7,10 @@ Combinar los aspectos más útiles de las herramientas de procesado de datos de 
 Este repositorio contine todos los datos y scripts empleados para ello en orden cronológico, para que sirva de reflejo del trabajo realizado por parte del alumno y para la posible continuación con el proyecto a futuro
 
 *Citaciones*:
-Lu, Z, research, A. M.-N. acids, & 2014, undefined. (n.d.). Vicinal: a method for the 
+* Lu, Z, research, A. M.-N. acids, & 2014, undefined. (n.d.). Vicinal: a method for the 
 determination of ncRNA ends using chimeric reads from RNA-seq experiments. 
 Academic.Oup.Com. Retrieved from https://academic.oup.com/nar/articleabstract/42/9/e79/1257539
-Acevedo, A, Brodsky, L., Nature, R. A.-, & 2014, undefined. (n.d.). Mutational and fitness 
+* Acevedo, A, Brodsky, L., Nature, R. A.-, & 2014, undefined. (n.d.). Mutational and fitness 
 landscapes of an RNA virus revealed through population sequencing. Nature.Com. 
 Retrieved from https://www.nature.com/articles/nature12861
 
