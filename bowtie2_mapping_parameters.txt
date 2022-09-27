@@ -1,0 +1,5 @@
+% de intrones mapeados 100.0
+Nombre del intron
+['>CR31987', '>CR31986', '>CR31435', '>CR31433', '>CR31434', '>CR31552', '>CR31387', '>CR32520', '>CR32525', '>CR32480', '>CR32481', '>CR31143', '>CR32841', '>CR30508', '>CR32127', '>XBP1intronDrosophila']
+Nº rotaciones mapeadas
+[5, 53, 2, 2, 1, 5, 1, 6, 33, 10, 12, 41, 54, 70, 43, 8]
