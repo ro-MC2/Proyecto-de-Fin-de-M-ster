@@ -7,7 +7,7 @@ secuencia de referencia
 """
 #%% Formatear archivo SAM procedente de reads tras obtener secuencia consenso
 
-infile = open("synth_consensus_mut_local_multi.sam","r")
+infile = open("synth_consensus_local_multi.sam","r")
 outfile = open("bowtie2_mapping_results.csv","w")
 
 outfile.write("Intron;" + "Ref_mapeo;" + "Ref_anotacion;" + "Pos_mapeo;" + "Pos_anotacion;" + "CIGAR\n")
@@ -30,7 +30,7 @@ outfile.close()
 # Parámetros
 n_introns = 16
 
-infile = open("synth_rotated_mut_local_multi.sam","r")
+infile = open("synth_rotated_local_multi.sam","r")
 outfile = open("bowtie2_mapping_results.csv","w")
 outfile2 = open("bowtie2_mapping_parameters.txt","w")
 
